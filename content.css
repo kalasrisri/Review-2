@@ -1,0 +1,55 @@
+.image{
+    background-image: url('https://watermark.lovepik.com/photo/20211120/large/lovepik-large-bright-and-luxurious-hotel-lobby-picture_500379756.jpg');
+    height: 98vh;
+    width: 95vw;
+    margin: 20px;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin-top: 10px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.book{
+    font-size: 30px;
+    margin-left: 25px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.836);
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-weight:bold;
+}
+.detail{
+    font-size:30px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.849);
+    position: absolute;
+    top: 20%;
+    left:50%;
+    font-weight: bold;
+}
+.but{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    top:93%;
+    position: absolute;
+    padding: 10px;
+}
+
+.floatLabel{
+    width: 10vw;
+    height: 5vh;
+}
+.code{
+    position: absolute;
+    margin-left: 50px;
+}

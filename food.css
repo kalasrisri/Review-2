@@ -1,0 +1,72 @@
+.image{
+    background-color: aliceblue;
+    height:auto;
+    width: 100vw;
+}
+.box{
+    height: 30vh;
+    width: 60vw;
+}
+.tittleName {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    transform: translate(-50%, -50%);
+  }
+.tittleName {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    transform: translate(-50%, -50%);
+  }
+.tittleNam {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    transform: translate(-50%, -50%);
+  }
+.tittleimage {
+    position: relative;
+    text-align: center;
+    color: black;
+    height: 40vh;
+    width: 40vw;
+  }
+  .backgr{
+    background-color: orange;
+    width: 90vw;
+    height: 70vh;
+  }
+  .backgro{
+    background-color: violet;
+    width: 90vw;
+    height: 70vh;
+  }
+  .backgrou{
+    background-color: rgb(0, 153, 255);
+    width: 90vw;
+    height: 70vh;
+  }
+  .favfood1{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+  .fooddescription{
+    color: white;
+    text-align: center;
+  }

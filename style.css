@@ -1,0 +1,28 @@
+.back {
+    background-image: url('https://mobirise.com/extensions/hotelm4/assets/images/background13-1920x1280.jpg');
+    height: 100vh;
+}
+.head{
+    text-align: center;
+    color: rgba(240, 248, 255, 0.945);
+    padding-top: 70px;
+}
+.log{
+    text-align: center;
+    color: rgb(47, 49, 49);
+    font-size: medium;
+    font-family:cursive;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.but{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    background-color: aqua;
+    margin-left: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
